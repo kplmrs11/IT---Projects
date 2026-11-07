@@ -1,32 +1,30 @@
-# Networking Projects
+# Projects Portfolio
 
-Welcome to my networking portfolio! This repository showcases a variety of hands-on labs, network designs, and configurations I've completed to strengthen my practical skills in networking technologies.
+This portfolio contains hands-on projects and labs demonstrating my developing skills in **Networking and Cybersecurity**.
 
-## What's Inside
+Each project has its own **README.md** with more detailed information about the project, including the objectives, tools used, tasks completed, and skills demonstrated.
 
-- Network topology diagrams and designs
-- Configuration files for switches, routers, and other network devices
-- VLAN implementations, inter-VLAN routing, DHCP setups, and related configurations
-- Project write-ups covering goals, process, and outcomes
-- Testing and troubleshooting notes
-- Cisco Packet Tracer files and other supporting lab materials
+## 🌐 Networking Projects
 
-## Navigating This Repository
+Hands-on networking projects and labs focused on:
 
-Every project lives in its own dedicated folder, containing:
+- Network configuration
+- Routing and switching
+- Cisco and Packet Tracer
+- Network troubleshooting
+- Network design
 
-- A README or write-up specific to that project
-- Configuration files and relevant screenshots
-- Simulation files (such as Cisco Packet Tracer `.pkt` files)
+## 🔐 Cybersecurity Projects
 
-Browse through the individual folders for detailed walkthroughs and accompanying resources.
+My cybersecurity projects are organized into three main areas:
 
-## Tools & Technologies
+### 🛡️ SOC
+Projects focused on Security Operations Center skills, including security monitoring, log analysis, threat detection, alert investigation, and incident response.
 
-- Cisco Packet Tracer
-- Cisco IOS CLI
-- Simulated networking devices and endpoints
+### 📋 GRC
+Projects focused on Governance, Risk, and Compliance, including risk management, security controls, policies, compliance, and security frameworks.
 
-## About Me
+### 🧑‍💻 Ethical Hacking
+Hands-on projects focused on ethical hacking and security testing, including reconnaissance, vulnerability assessment, penetration testing, and identifying security weaknesses.
 
-I'm continuously building my networking expertise through practical, hands-on projects. This repository acts as a portfolio showcasing my grasp of networking fundamentals, device configuration, and troubleshooting within simulated environments.
+Each individual project includes its own README.md with additional details aswell
